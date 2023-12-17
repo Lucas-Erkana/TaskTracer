@@ -55,7 +55,6 @@ This app is built with React Native.
 > - Integrated mood and productivity tracking.
 > - Smart task prioritization based on user preferences.
 > - Social sharing and collaboration features.
-> - Gamified elements with rewards and achievements.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

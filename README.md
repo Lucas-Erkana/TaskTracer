@@ -130,9 +130,7 @@ Feel free to check the [issues page](https://github.com/Lucas-Erkana/TaskTracer/
 
 If you like this project, please leave a ⭐️
 
-<p align
-
-="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
